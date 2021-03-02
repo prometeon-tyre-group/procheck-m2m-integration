@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+/data/*
+*/data/*
+# OS and editor files
+.DS_Store
+*/**.DS_Store
+._*
+.*.sw*
+*~
+.idea/
+.mr.developer.cfg
+.project
+.pydevproject
+*.tmproj
+*.tmproject
+tmtags
+celerybeat-schedule
+*.pid
+.coverage
+*/.coverage
+/application/.cache
+/application/serverbase/static/business_imgs
+*/__pycache__
+.pytest_cache
+*pytest_cache
+lastfailed
+*/lastfailed
+.env
+*/application/.pytest_cache/v/cache/lastfailed
+*/.pytest_cache/v/cache/lastfailed
+*/v/cache/lastfailed
+*/v/cache/
+*/application/.pytest_cache/*
+*/.ipynb_checkpoints
+**/__pycache__/*
